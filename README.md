@@ -8,8 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 - 🌱 I’m currently learning computer science and machine learning.
 - 👯 I’m looking to collaborate with not-for-profits, small organizations.
 - 💬 Ask me about web development, game development, and AI.
-- 📫 How to reach me: [Email](mailto:coolomer308@gmail.com)
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: [Email](mailto:coolomer308@gmail.com) or Discord: @oh20_h
 - ⚡ Fun fact: I enjoy development, whether it's games or websites!
 
 ## 🛠️ Technologies & Tools
@@ -35,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/sy-omerhassan)
-[![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)]()
+[![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)]: @oh20_h
 
 ## 📝 Latest Blog Posts
 
