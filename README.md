@@ -29,12 +29,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 ## 💼 Experience
 
 - **Website Developer** at Sadaat Aid Foundation (2024-Present)
-- **Game Developer** at Roblox (Independent) (2021-Present)
+- **Game Developer** on Roblox (Independent) (2021-Present)
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/sy-omerhassan)
-[![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)]: @oh20_h
+[![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)]()
 
 ## 📝 Latest Blog Posts
 
