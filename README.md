@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 - 🔭 I’m currently working on various web-development projects.
 - 🌱 I’m currently learning computer science and machine learning.
 - 👯 I’m looking to collaborate with not-for-profits, small organizations.
-- 💬 Ask me about web development, game development, and AI.
-- 📫 How to reach me: [Email](mailto:coolomer308@gmail.com) or Discord: @oh20_h
-- ⚡ Fun fact: I enjoy development, whether it's games or websites!
+- 💬 Ask me about development and hardware-focused projects.
+- 📫 How to reach me: [Email](mailto:coolomer308@gmail.com).
+- ⚡ Fun fact: I enjoy development, including Arduino, games, and websites!
 
 ## 🛠️ Technologies & Tools
 
@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 ## 💼 Experience
 
-- **Website Developer** at Sadaat Aid Foundation (2024-Present)
-- **Game Developer** on Roblox (Independent) (2021-Present)
+- **Lead Web Integrator** at Sadaat Aid Foundation (2024-Present)
+- **Independent Game Developer** on Roblox (2021-Present)
 
 ## 🌐 Connect with Me
 
